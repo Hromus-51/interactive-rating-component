@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here]([https://your-solution-url.com](https://github.com/Hromus-51/interactive-rating-component))
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Hromus-51/interactive-rating-component/tree/gh-pages)
+- Live Site URL: [Live site](https://hromus-51.github.io/interactive-rating-component/)
 
 ### Built with
 
