@@ -42,3 +42,4 @@ Users should be able to:
 
 - Telegram - [Ilgiz Farrakhov](https://t.me/Gizmo51)
 
+# interactive-rating-component
