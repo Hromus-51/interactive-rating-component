@@ -1,0 +1,54 @@
+.score {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 17px;
+
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    color: #7C8798;
+    user-select: none;
+
+    @media (max-width:435px) {
+        font-size: 14px;
+    }
+
+    .scoreItem {
+        width: 51px;
+        height: 51px;
+        border-radius: 50%;
+
+        @media (max-width:435px) {
+            width: 42px;
+            height: 42px;
+        }
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        cursor: pointer;
+        background-color: #262E38;
+
+        transition: all 0.2s ease 0s;
+
+        &:hover {
+            color: #FFFFFF;
+            transition: all 0.15s ease 0s;
+        }
+
+        &:active {
+            background-color: #FC7614;
+            transition: all 0.15s ease 0s;
+        }
+
+        &_active {
+            background-color: #7C8798;
+            color: #FFFFFF;
+        }
+    }
+
+    .scoreNumber {
+        transform: translateY(2px);
+    }
+}
