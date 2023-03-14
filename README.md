@@ -26,13 +26,12 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/Hromus-51/interactive-rating-component/tree/gh-pages)
 - [Live site](https://hromus-51.github.io/interactive-rating-component/)
 
 ### Built with
 
 - HTML5 
-- [SASS](https://sass-lang.com/)
+- [SASS/SCSS](https://sass-lang.com/)
 - [clsx](https://www.npmjs.com/package/clsx)
 - [TS](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/) 
